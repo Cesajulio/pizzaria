@@ -1,0 +1,14 @@
+body{
+    font-family: 'Poppins', sans-serif;
+
+}
+main{
+    margin-top: 200px;
+margin-left: 100px;
+display: flex;
+align-items: center;
+
+}
+h1{
+    font-size: 50px;
+}
